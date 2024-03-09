@@ -1,0 +1,33 @@
+<resources>
+    <!-- Reply Preference -->
+    <string-array name="reply_entries">
+        <item>Reply</item>
+        <item>Reply to all</item>
+    </string-array>
+
+    <string-array name="reply_values">
+        <item>reply</item>
+        <item>reply_all</item>
+    </string-array>
+    <string-array name="menuler">
+
+        <item>İçeceğinizi Seçiniz</item>
+        <item>Coco Cola(kutu) +25 TL</item>
+        <item>Coco Cola(1 lt) +45 TL</item>
+        <item>Fanta(kutu) +25 TL</item>
+        <item>Lipton Ice Tea(kutu) +20 TL</item>
+        <item>İçecek İstemiyorum</item>
+
+    </string-array>
+
+    <string-array name="boy">
+
+        <item>Pizza Boyunuzu Seçiniz</item>
+        <item>Küçük Boy</item>
+        <item>Orta Boy +15 TL</item>
+        <item>Büyük Boy +40 TL</item>
+
+
+    </string-array>
+
+</resources>
